@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\QuanLySieuThi",
+    "\\QuanLySieuThi\\BAL-SieuThi",
+    "\\QuanLySieuThi\\BAL-SieuThi\\banhang",
+    "\\QuanLySieuThi\\BAL-SieuThi\\quanly",
+    "\\QuanLySieuThi\\BAL-SieuThi\\TaiKhoan",
+    "\\QuanLySieuThi\\DAL",
+    "\\QuanLySieuThi\\GUI",
+    "\\QuanLySieuThi\\Properties"
+  ],
+  "SelectedNode": "\\QuanLySieuThi\\DAL\\Dbconection.cs",
+  "PreviewInSolutionExplorer": false
+}
